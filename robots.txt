@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://seqabodu.github.io/wolof/sitemap.xml
